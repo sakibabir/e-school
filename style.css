@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 100px;
+}
+.top-bg{
+background-color: #F0FFF0;
+}
+.top-banner body{
+    background-color:#F0FFF0 ;
+}
+.logotop{
+    width: 180px;
+}
+.signin{
+    background-color: #21B573;
+    color: #fff !important;
+    border: none;
+    border-radius: 30px;
+    padding: 9px 30px;
+}
+.navright{
+    float: right;
+}
+.commonbutton {
+    background-color: #21B573;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    padding: 9px 20px;
+    transition: 0.3s;
+}
+.commonbutton:hover{
+    background-color: teal;
+}
+.greentext{
+    color: green;
+}
+h1{
+    font-weight: bold;
+}
+.description{
+    padding: 20px 20px;
+}
+h2{
+    padding-bottom: 80px;
+}
+
+.cardone{
+    background-color: #F8FFFB;
+    border: none;
+    transition: 0.3s
+}
+.cardone:hover {
+    background-color: white;
+    box-shadow: 5px 5px 20px grey;
+}
+footer p{
+    text-align: center;
+}
+.testimonial{
+    padding: 0 250px;
+}
+.nav-item{
+    padding: 0px 20px;
+}
+
+.card-body{
+    align-items: center;
+}
+.cardimg{
+   margin-top: 50px;
+}
+.cardtwo{
+    border: none;
+    border-radius: .1in;
+    box-shadow:3px 3px 10px grey ;   
+    padding-bottom: 10px;
+}
+
+.coursecardimg{
+    margin-top: 30px;
+    max-width: 300px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+
+.footertext{
+    color: white;
+}
+.lastsection li{
+    font-weight: 300;
+    list-style-type: none;
+}
+.lastsection{
+    padding-top: 70px;
+}
+.testicontent{
+    position: relative;
+}
